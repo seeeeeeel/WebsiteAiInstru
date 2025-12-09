@@ -1,2 +1,1 @@
-# WebsiteAiInstru
-AI-powered church music learning, step by step.  Learn worship music online with AI-assisted lessons.  Beginner-friendly church music tutorials powered by AI.  AI-driven platform for learning church instruments.  Step-by-step church music learning with AI guidance.
+“MusicAcademy is a web-based church music learning platform created with AI-assisted development. It offers beginner-friendly step-by-step tutorials for drums, guitar, piano, vocals, and worship leading. Lessons include YouTube video integration, downloadable chord charts, practice sheets, and community features to help learners grow and collaborate. This project explores how AI can accelerate web development while delivering a practical, engaging tool for church music education globally.”
